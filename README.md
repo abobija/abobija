@@ -5,4 +5,5 @@
 For more, please visit [abobija.com](https://abobija.com).
 
 ![Alija's github stats](https://github-readme-stats.vercel.app/api?username=abobija&show_icons=true)
-![Alija's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abobija&layout=compact&hide=html)
+
+<!-- ![Alija's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abobija&layout=compact&hide=html) -->
