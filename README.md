@@ -1,9 +1,11 @@
-### Hi, it's Alija
+### Hi there :wave: nice to meet you. I'm Alija.
 
-[YouTube](https://youtube.com/AlijaBobija) - There I publish some cool stuff about programming and electronics.
+Thanks for coming by.
 
-For more, please visit [abobija.com](https://abobija.com).
+Here you can find many interesting and open-source repositories about electronics, home-automation, auto-industry, software ci-cd, testing-automation, solution architecturing and more. Many of those repos is linked with my [**YouTube**](https://youtube.com/AlijaBobija) channel where I, from time to time, publish my projects and useful tutorials.
 
-<!-- ![Alija's github stats](https://github-readme-stats.vercel.app/api?username=abobija&show_icons=true) -->
+For more about me, as well as contant informations, please visit [abobija.com](https://abobija.com).
 
-<!-- ![Alija's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abobija&layout=compact&hide=html) -->
+---
+
+![Alija's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abobija&layout=compact&hide=html&theme=radical&hide_border=true&border_radius=0&langs_count=10)
