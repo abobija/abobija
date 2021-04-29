@@ -4,7 +4,7 @@ Thanks for coming by.
 
 Here you can find many interesting and open-source repositories about electronics, home-automation, auto-industry, software ci-cd, testing-automation, solution architecturing and more. Many of those repos is linked with my [**YouTube**](https://youtube.com/AlijaBobija) channel where I, from time to time, publish my projects and useful tutorials.
 
-For more about me, as well as contant informations, please visit [abobija.com](https://abobija.com).
+For more about me, as well as contact informations, please visit [abobija.com](https://abobija.com).
 
 ---
 
