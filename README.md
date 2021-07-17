@@ -8,4 +8,4 @@ For more about me, as well as contact informations, please visit [abobija.com](h
 
 ---
 
-![Alija's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abobija&layout=compact&hide=html&theme=radical&hide_border=true&border_radius=0&langs_count=10)
+![Alija's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abobija&layout=compact&hide=html,css,cmake,makefile,scss,objective-c,batchfile&theme=radical&hide_border=true&border_radius=0&langs_count=10&cache_seconds=1800)
