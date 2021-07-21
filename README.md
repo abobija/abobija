@@ -1,6 +1,8 @@
+<!--
 ### Hi there :wave: nice to meet you. I'm Alija.
+-->
 
-Thanks for coming by.
+Welcome and thanks for coming by.
 
 Here you can find many interesting and open-source repositories about electronics, home-automation, auto-industry, software ci-cd, testing-automation, solution architecturing and more. Many of those repos is linked with my [**YouTube**](https://youtube.com/AlijaBobija) channel where I, from time to time, publish my projects and useful tutorials.
 
