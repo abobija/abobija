@@ -2,7 +2,7 @@ Here you can find many interesting projects about electronics, home-automation, 
 
 I'm Alija. Welcome and thanks for coming by.
 
-For more about me, as well as contact informations, go ahead and visit [abobija.com](https://abobija.com).
+For more about me, as well as contact informations, go ahead and visit [abobija.com](https://abobija.com). There is also my blog, and my projects portofolio.
 
 <!--
 ---
