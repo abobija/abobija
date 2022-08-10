@@ -1,12 +1,8 @@
-<!--
-### Hi there :wave: nice to meet you. I'm Alija.
--->
+Here you can find many interesting projects about electronics, home-automation, auto-industry, software ci-cd, solution architecturing and more. I also maintain a [YouTube channel](https://youtube.com/AlijaBobija) where I'm used to make a detailed videos for each of those projects.
 
-Welcome and thanks for coming by.
+I'm Alija. Welcome and thanks for coming by.
 
-Here you can find many interesting and open-source repositories about electronics, home-automation, auto-industry, software ci-cd, testing-automation, solution architecturing and more. Many of those repos are linked with my [**YouTube**](https://youtube.com/AlijaBobija) channel where I, from time to time, publish my projects and useful tutorials.
-
-For more about me, as well as contact informations, please visit [abobija.com](https://abobija.com).
+For more about me, as well as contact informations, go ahead and visit [abobija.com](https://abobija.com).
 
 <!--
 ---
