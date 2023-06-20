@@ -1,4 +1,4 @@
-Here you can find many interesting projects about electronics, home-automation, auto-industry, software ci-cd, solution architecturing and more. I also maintain a [YouTube channel](https://youtube.com/AlijaBobija) where I'm used to make a detailed videos for each of those projects.
+Here you can find many interesting projects about electronics, home-automation, auto-industry, software ci-cd, solution architecturing and more. I also maintain a [YouTube channel](https://youtube.com/@abobija) where I'm used to make a detailed videos for each of those projects.
 
 I'm Alija. Welcome and thanks for coming by.
 
