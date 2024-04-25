@@ -1,8 +1,10 @@
-Here you'll find exciting projects on electronics, home automation, the auto industry, software CI/CD, solution architecture, and more. I also maintain a [YouTube channel](https://youtube.com/@abobija) where I create detailed videos for each project.
+I'm Alija.
 
-I'm Alija. Thank you for visiting!
+Here you'll find exciting projects on electronics, home automation, the auto industry, software CI/CD, solution architecture, and more. I also maintain a YouTube [channel](https://youtube.com/@abobija) where I create detailed videos for each project.
 
-For more about me and to get in touch, visit [abobija.com](https://abobija.com). Explore my blog and project portfolio too.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzh3Yw1KNcbXUHOBK_AzquQ?style=for-the-badge&logo=youtube)](https://youtube.com/@abobija)
+
+For more about me and to get in touch, visit [abobija.com](https://abobija.com)
 
 <!--
 ---
