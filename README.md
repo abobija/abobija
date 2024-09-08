@@ -1,10 +1,6 @@
-I'm Alija.
+Hi! I'm Alija and I like to build stuff. More about me at [abobija.com](https://abobija.com)
 
-Here you'll find exciting projects on electronics, home automation, the auto industry, software CI/CD, solution architecture, and more. I also maintain a YouTube [channel](https://youtube.com/@abobija) where I create detailed videos for each project.
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzh3Yw1KNcbXUHOBK_AzquQ?style=for-the-badge&logo=youtube)](https://youtube.com/@abobija)
-
-For more about me and to get in touch, visit [abobija.com](https://abobija.com)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCzh3Yw1KNcbXUHOBK_AzquQ?style=for-the-badge&logo=youtube&label=SUBS)](https://youtube.com/@abobija)
 
 <!--
 ---
