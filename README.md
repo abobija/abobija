@@ -1,6 +1,8 @@
-Hi! I'm Alija and I like to build stuff. More about me at [abobija.com](https://abobija.com)
+Hi! I'm Alija and I like to build stuff.
 
+<!--
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCzh3Yw1KNcbXUHOBK_AzquQ?style=for-the-badge&logo=youtube&label=SUBS)](https://youtube.com/@abobija)
+-->
 
 <!--
 ---
