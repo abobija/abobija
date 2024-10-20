@@ -1,8 +1,6 @@
 👾
 
-<!--
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCzh3Yw1KNcbXUHOBK_AzquQ?style=for-the-badge&logo=youtube&label=SUBS)](https://youtube.com/@abobija)
--->
+[![youtube](https://img.shields.io/youtube/channel/subscribers/UCzh3Yw1KNcbXUHOBK_AzquQ?style=for-the-badge&logo=youtube&label=SUBS)](https://youtube.com/@abobija)
 
 <!--
 ---
